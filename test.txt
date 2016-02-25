@@ -1,1 +1,2 @@
-athome/bar �̕ҏW
+athome/foo �̕ҏW
+athome/foo 2nd commit
